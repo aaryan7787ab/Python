@@ -1,7 +1,6 @@
 #Create a star pattern 
 n = int(input("Enter the value of N :"))
-j = 1
-space= ""
+j = 1
 if(n <= 0):
     print("Invalid Input!")
 else:
